@@ -9,5 +9,5 @@
   - Project 3: Tableau Public Business Insights Dashboard (coming soon)
 
   ## About Me
-  Entry-level data analyst focused on clear business insights, clean analysis,
+  Experienced operations officer and data analyst focused on clear business insights, clean analysis,
   and strong storytelling.
